@@ -5,7 +5,7 @@
 
 <br />
 
-<h2><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" width="35px"/>Frontend com React</h2>
+<h2><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" width="35px"/>Frontend com React</h2> 
 
 
 1. <a href="01.md" >Introdução ao Desenvolvimento web com o React</a>
